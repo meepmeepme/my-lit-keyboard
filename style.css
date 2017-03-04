@@ -1,0 +1,40 @@
+body{
+	background-color: black;
+	color: purple;
+	font-family: monospace;	
+	font-size: 40px;
+}
+span{
+	border:solid;
+	margin:auto;
+	border-radius: 25px;
+	padding: 2px;
+}
+#main-container{
+	text-align: center;
+	background-color: black;
+	color:green;
+}
+#keyboard-container{
+	background-color:#111111;
+	height: 510px;
+	width: 1080px;
+	margin:auto;
+	padding: 10px;
+	border-radius: 100px;
+}
+.k{
+	margin:auto;
+	height: 80px;	
+	width:1000px;
+}
+#ta{
+	width: 800px;
+	height: 150px;
+	margin: auto;
+	background-color: black;
+	color:green;
+	font-size: 25px;
+	border-radius: 25px;
+	font-family: monospace;
+}
